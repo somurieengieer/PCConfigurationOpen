@@ -1,6 +1,7 @@
 # Usage
 
 主な機能は以下の通り。
+(PCConfigrationOpenはPCConfigurationからhome_configを削除したもの)
 
 - brewのバックアップと移行(./)
 - 仕事用のbrewセットアップ(./BrewfileForCompany)
