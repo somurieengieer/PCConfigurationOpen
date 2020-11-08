@@ -1,0 +1,63 @@
+total 1808
+drwxrwxr-x   3 root    admin      96 11 30  2019 Adobe
+drwxr-xr-x@  5 root    admin     160  6 13 14:38 Adobe Creative Cloud
+drwxrwxr-x@  6 root    admin     192 10  7 16:31 Adobe XD
+lrwxr-xr-x   1 kazuma  admin      46  9 13  2019 Anaconda-Navigator.app -> /Users/kazuma/anaconda3/Anaconda-Navigator.app
+drwxr-xr-x   3 kazuma  staff      96  9  8 17:50 Atom.app
+drwxr-xr-x@  3 502     wheel      96  6 16 12:38 Backup and Sync.app
+drwxr-xr-x   3 kazuma  admin      96  1  9  2019 Clipy.app
+drwxr-xr-x@  3 root    wheel      96  9 13 20:41 CotEditor.app
+drwxr-xr-x@  3 kazuma  staff      96  7 22  2019 DBeaver.app
+drwxr-xr-x   3 kazuma  staff      96  6 25  2019 Dash.app
+drwxr-xr-x   3 kazuma  staff      96  9  8 21:46 DeepL.app
+drwxr-xr-x   3 kazuma  admin      96 10  3 14:56 Docker.app
+drwxr-xr-x@  3 kazuma  admin      96  8  1  2019 Doly.app
+drwxr-xr-x   3 kazuma  admin      96 10  7 08:22 Dropbox.app
+lrwxr-xr-x   1 kazuma  admin      70  7 23  2019 EAAlias -> /Users/kazuma/.wine/drive_c/Program Files/Sparx Systems/EA LITE/EA.exe
+drwxr-xr-x@  3 kazuma  admin      96  8 28  2016 EVE.app
+drwxr-xr-x   3 kazuma  admin      96  3  4  2020 Evernote.app
+drwxr-xr-x@  3 kazuma  staff      96 10  9  2018 FireAlpaca.app
+drwxrwxr-x@  3 kazuma  admin      96 11  4  2019 Firefox.app
+drwxr-xr-x   3 root    wheel      96 11 28  2018 Foxit Reader.app
+drwxr-xr-x@  3 kazuma  staff      96  1 24  2019 GitHub Desktop.app
+drwxrwxr-x@  3 kazuma  admin      96  9 19 13:09 Google Chrome.app
+drwxrwxr-x   6 root    wheel     192  5 11 15:31 GoogleJapaneseInput.localized
+drwxr-xr-x@  3 kazuma  admin      96  5  1 21:01 Inkscape.app
+drwxr-xr-x@  3 kazuma  admin      96  9 20 13:40 IntelliJ IDEA.app
+drwxr-xr-x   3 root    wheel      96  3 17  2019 JPEGmini Lite.app
+drwxr-xr-x   3 root    wheel      96  1 18  2020 Karabiner-Elements.app
+drwxr-xr-x   3 root    wheel      96  1 18  2020 Karabiner-EventViewer.app
+drwxr-xr-x@  3 root    wheel      96  9 23 07:31 Keynote.app
+drwxr-xr-x   3 kazuma  staff      96  5 19 01:24 Kindle.app
+drwxr-xr-x@  3 root    wheel      96  9 19 09:34 LINE.app
+drwxr-xr-x@  3 root    wheel      96  9 25 21:43 MARKETSPEED.app
+drwxr-xr-x@  3 kazuma  staff      96  1 31  2019 MySQLWorkbench.app
+drwxr-xr-x@  3 root    wheel      96  9 23 07:29 Numbers.app
+drwxr-xr-x@  3 root    wheel      96  9 23 07:30 Pages.app
+drwxr-xr-x@  3 kazuma  admin      96 11 21  2018 PyCharm CE.app
+drwxr-xr-x@  3 root    wheel      96  4 22 16:39 QR Journal.app
+drwxr-xr-x@  3 kazuma  staff      96  5  1 04:23 React Native Debugger.app
+drwxr-xr-x@  3 kazuma  admin      96  4  2  2019 RubyMine.app
+drwxr-xr-x@  3 root    wheel      96  9 18 09:30 Safari.app
+drwx------   3 kazuma  staff      96  6 16  2019 Sequel Pro.app
+drwxr-xr-x@  3 root    wheel      96  7 13 07:43 Skitch.app
+drwxr-xr-x   3 kazuma  staff      96  5 24  2019 Skype.app
+drwxr-xr-x@  3 root    wheel      96 10  7 21:17 Slack.app
+drwxr-xr-x   3 root    wheel      96  6  7 08:31 Snap Camera.app
+drwxr-xr-x@  3 kazuma  staff      96 12 22  2016 Spectacle.app
+drwxr-xr-x   3 root    wheel      96  5 25 21:56 TeamViewer.app
+drwxr-xr-x@  3 root    wheel      96  7  9 07:12 Transporter.app
+drwxr-xr-x   3 root    wheel      96  4 19  2019 TweetDeck.app
+drwxr-xr-x  13 root    admin     416  9  9 09:30 Utilities
+drwxr-xr-x   3 root    admin      96  4  8  2019 VirtualBox.app
+drwxr-xr-x   3 root    wheel      96  7 23  2019 Wine Stable.app
+drwxr-xr-x@  3 kazuma  staff      96  7 24  2018 XMind.app
+drwxr-xr-x@  3 root    wheel      96 10  7 07:44 Xcode.app
+drwxr-xr-x@  3 root    wheel      96 11  8  2019 iMazing HEIC Converter.app
+drwxr-xr-x@  3 kazuma  staff      96  1 22  2019 iTerm.app
+drwxr-xr-x@  3 kazuma  staff      96  1 30  2019 p4admin.app
+drwxr-xr-x@  3 kazuma  staff      96  1 30  2019 p4merge.app
+drwxr-xr-x@  3 kazuma  staff      96  1 30  2019 p4v.app
+-rwxr-xr-x   1 kazuma  staff  799828  7 23  2019 winetricks
+drwxr-xr-x   3 kazuma  wheel      96  5 13 22:52 zoom.us.app
+-rw-r--r--@  1 kazuma  admin  119084  7 22  2019 スクリーンショット 2019-07-22 21.32.57.png

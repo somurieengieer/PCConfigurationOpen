@@ -1,0 +1,34 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew mas
+brew vim
+brew xz
+
+tap homebrew/cask
+cask spectacle
+
+tap argon/mas
+
+tap rcmdnk/file
+brew brew-file
+
+# App Store applications
+appstore 1024640650 CotEditor (3.6.12)
+appstore 1032155965 Foxit Reader (2.4.1)
+appstore 425955336 Skitch (2.8.2)
+appstore 803453959 Slack (3.3.7)
+appstore 497799835 Xcode (10.1)
+
+# add by myself
+brew "tree"
+brew "wget"
+cask "clipy"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "qlcolorcode"
+cask "qlstephen"
+cask "quicklook-json"
+cask "sourcetree"
+
